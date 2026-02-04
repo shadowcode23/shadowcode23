@@ -2,8 +2,8 @@
 
 - 🧑🏽 Pronouns: He/Him 
 - ✨ Age: 24 years old
-- 💻 I’m currently learning: cybersecurity and front-end
-- ⚡ Fun fact: learn new technologies
+- 💻 I’m currently learning: Cybersecurity and front-end
+- ⚡ Fun fact: Learn new technologies
 
 ---
 
