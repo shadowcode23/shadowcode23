@@ -1,4 +1,8 @@
+<div align="center"">
+  
 ## Hi, i'm student from software engineering👋
+</div>
+
 
 - 🧑🏽 Pronouns: He/Him 
 - ✨ Age: 24 years old
