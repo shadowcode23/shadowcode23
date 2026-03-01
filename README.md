@@ -1,6 +1,6 @@
 <div align="center"">
   
-## Hi, i'm student from software engineering👋
+## Hi, i'm software engineering student👋
 </div>
 
 
