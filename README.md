@@ -1,12 +1,12 @@
 <div align="center"">
   
-## Hi, i'm software engineering student👋
+## Hi, i'm a software engineering student👋
 </div>
 
 
-- ✨ Age: 24 years old
+- ✨ Age: 24
 - 💻 I’m currently learning: Cybersecurity and front-end
-- ⚡ Fun fact: My hobbies are learning new technologies and watching movies/series🍿
+- ⚡ Fun fact: My hobbies are learning new technologies and watching anime, movies and series 🍿
 
 ---
 
