@@ -5,7 +5,7 @@
 
 
 - ✨ Age: 24
-- 💻 I’m currently learning: Cybersecurity and front-end
+- 💻 I’m currently learning: Front-end
 - ⚡ Fun fact: My hobbies are learning new technologies and watching anime, movies and series 🍿
 
 ---
