@@ -5,7 +5,7 @@
 
 
 - ✨ Age: 24
-- 💻 I’m currently learning: Front-end
+- 💻 I’m currently learning: Front-end (TypeScript/Angular)
 - ⚡ Fun fact: My hobbies are learning new technologies and watching anime, movies and series 🍿
 
 ---
